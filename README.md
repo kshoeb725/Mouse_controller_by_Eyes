@@ -1,6 +1,6 @@
 
 
-# Eye-Controlled Mouse with Python 🖱️👁️
+# Mouse-Controlled  with Eye using Python 🖱️👁️
 
 This project uses your **webcam** and the **MediaPipe FaceMesh** model to **control your mouse cursor using eye movements** and **click by blinking**. It's built with Python, OpenCV, and PyAutoGUI.
 
